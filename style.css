@@ -1,0 +1,24 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-size: 45px;		
+  color: Black;
+  text-align: Center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 10px;
+}
+
+
+address {
+	text-align: right;
+
+}
+
+
+
+
